@@ -1,0 +1,3 @@
+Video Recording with OpenCV
+
+This program uses OpenCV to capture video from a camera and allows the user to start and stop recording by pressing the '1' key. The recorded video is saved as a file named "recorded.mp4" in the same directory as the program. The video is recorded at 30 frames per second with a resolution of 1280x720. The program displays the video feed in grayscale and shows the current frames per second (FPS) in the top left corner of the window. The program can be exited by pressing the 'Esc' key.
